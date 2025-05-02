@@ -1,10 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
 
----
-
-<h1 align="center">😄 I'm Subrato Kumar Verma</h1>
+<h1 align="center">Hey 😄 I'm Subrato Kumar Verma</h1>
 <h3 align="center">MERN Stack Developer | C++ Programmer</h3>
 
 
@@ -60,16 +55,25 @@ I'm a passionate **Software Developer** and **Full-Stack Developer** specializin
 ---
 
 ### 📈 GitHub Stats & Streak
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=18subrato&theme=&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=18subrato&show_icons=true&theme=" alt="GitHub Stats" />
 </p>
+
+<h2 align="center">🔥 Streak</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=18subrato&show_icons=true&theme=github-light-trio&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=18subrato&theme=&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=18subrato&layout=compact&theme=&hide_border=true" /></p>
+<h2 align="center">🧠 Top Languages</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=18subrato&layout=compact&theme=" alt="Top Langs" />
+</p>
+
+
 
 ---
 
