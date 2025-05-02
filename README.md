@@ -1,6 +1,9 @@
 
-<h1 align="center">Hey 😄 I'm Subrato Kumar Verma</h1>
-<h3 align="center">MERN Stack Developer | C++ Programmer</h3>
+<h1 align="center" style="background: linear-gradient(to right, #00c6ff, #ff9a8b); -webkit-background-clip: text; color: transparent;">
+  Hey, I'm Subrato Kumar Verma
+</h1>
+
+<h3 align="center" style="color: orange">MERN Stack Developer | C++ Programmer</h3>
 
 
 I'm a passionate **Software Developer** and **Full-Stack Developer** specializing in **front-end** and **back-end** technologies. I build scalable, high-performance web applications using modern technologies. Let's connect and collaborate to create something amazing! 🚀
@@ -75,11 +78,11 @@ I'm a passionate **Software Developer** and **Full-Stack Developer** specializin
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://subratoverma.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=About.me&logoColor=black" />
+</a>
 </p>
 
----
+
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=18subrato&theme=react-dark)
 
