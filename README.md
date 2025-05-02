@@ -55,22 +55,10 @@ I'm a passionate **Software Developer** and **Full-Stack Developer** specializin
 ---
 
 ### 📈 GitHub Stats & Streak
-<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=18subrato&show_icons=true&theme=" alt="GitHub Stats" />
-</p>
-
-<h2 align="center">🔥 Streak</h2>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=18subrato&theme=&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<h2 align="center">🧠 Top Languages</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=18subrato&layout=compact&theme=" alt="Top Langs" />
 </p>
 
 
