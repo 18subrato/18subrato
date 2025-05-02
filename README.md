@@ -1,9 +1,6 @@
 
-<h1 align="center" style="background: linear-gradient(to right, #00c6ff, #ff9a8b); -webkit-background-clip: text; color: transparent;">
-  Hey, I'm Subrato Kumar Verma
-</h1>
-
-<h3 align="center" style="color: orange">MERN Stack Developer | C++ Programmer</h3>
+<h1 align="center">Hey 😄 I'm Subrato Kumar Verma</h1>
+<h3 align="center">🔶 MERN Stack Developer | C++ Programmer 🔷</h3>
 
 
 I'm a passionate **Software Developer** and **Full-Stack Developer** specializing in **front-end** and **back-end** technologies. I build scalable, high-performance web applications using modern technologies. Let's connect and collaborate to create something amazing! 🚀
@@ -58,7 +55,6 @@ I'm a passionate **Software Developer** and **Full-Stack Developer** specializin
 ---
 
 ### 📈 GitHub Stats & Streak
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=18subrato&show_icons=true&theme=" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=18subrato&theme=&hide_border=true" alt="GitHub Streak" />
