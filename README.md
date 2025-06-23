@@ -15,9 +15,6 @@ I'm a passionate **Software Developer** and **Full-Stack Developer** specializin
 
 ---
 
-## 🛠 GitHub Stats
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=18subrato&label=Profile%20views&color=0e75b6&style=flat" alt="18subrato" /> </p>
 
 
 ### 🛠️ Tech Stack
